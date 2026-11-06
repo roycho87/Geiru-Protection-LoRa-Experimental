@@ -18,7 +18,7 @@ Needs the [Geiru Context Suite](https://github.com/roycho87/geiru_context_suite)
 
 ```
 cd ComfyUI/custom_nodes
-git clone https://github.com/roycho87/geiru-protection-lora-experimental
+git clone https://github.com/roycho87/Geiru-Protection-LoRa-Experimental
 ```
 
 The internal node name (`H3ClownProtectionLora`) is unchanged, so workflows made with the suite's version still load.
