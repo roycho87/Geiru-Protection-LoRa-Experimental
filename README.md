@@ -10,7 +10,7 @@ The early tests showed a colour improvement with the Anti-Burn LoRA, but later t
 
 In the later tests ([test 13, a still scene](https://github.com/roycho87/NerdNotes/blob/main/20261104/static_chair_lora_test.md), and [test 14, 50 clips of a moving beach scene](https://github.com/roycho87/NerdNotes/blob/main/20261105/beach_lora_strength_test.md)), with degradation protection on, no LoRA, 0.2, 0.4 and 0.6 showed no visible colour difference.
 
-The LoRA itself works: I (roycho) tested it previously on its own, without these nodes, and it had an impact on colour. What these tests couldn't show was any extra colour gain on top of the Geiru Context Suite's degradation protection. They did show it doesn't hurt fine detail: on the still scene, no strength softened the textures.
+The LoRA itself works: I (roycho) tested it previously on its own, without these nodes, and it had a positive impact on colour. What these tests couldn't show was any extra colour gain on top of the Geiru Context Suite's degradation protection. They did show it doesn't hurt fine detail: on the still scene, no strength softened the textures.
 
 **Please try it and share what you find** in the [issues](https://github.com/roycho87/Geiru-Protection-LoRa-Experimental/issues). More testing is needed, especially on scenes that keep changing, with other speed LoRAs and at higher resolutions.
 
