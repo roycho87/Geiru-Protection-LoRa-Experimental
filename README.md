@@ -14,7 +14,7 @@ The LoRA itself works: I (roycho) tested it previously on its own, without these
 
 **Please try it and share what you find** in the [issues](https://github.com/roycho87/Geiru-Protection-LoRa-Experimental/issues). More testing is needed, especially on scenes that keep changing, with other speed LoRAs and at higher resolutions.
 
-**What's next:** I plan to experiment with training a LoRA that would work with this concept.
+**What's next:** I plan to explore using a LoRA with this loader, on top of my protection nodes, to preserve colour better.
 
 ## Install
 
